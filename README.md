@@ -142,20 +142,6 @@ Currently focused on:
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=krsiddharth99&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsiddharth99&layout=compact&langs_count=8&theme=github_dark" />
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 - AI Agents
