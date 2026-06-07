@@ -142,15 +142,17 @@ Currently focused on:
 
 ---
 
-## 🏅 GitHub Trophy Wall
+## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=krsiddharth99&theme=algolia&row=2&column=4"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=krsiddharth99&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 🌐 Languages
+## 💻 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsiddharth99&layout=compact&theme=transparent"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsiddharth99&layout=compact&langs_count=8&theme=github_dark" />
+</p>
 
 ---
 
