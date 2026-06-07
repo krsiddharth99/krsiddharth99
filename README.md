@@ -128,9 +128,9 @@ Currently focused on:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&include_all_commits=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=krsiddharth99&show_icons=true&count_private=true&include_all_commits=true&theme=transparent"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=krsiddharth99&theme=transparent"/>
 
 </p>
 
@@ -138,19 +138,19 @@ Currently focused on:
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krsiddharth99&theme=github-compact" />
 
 ---
 
 ## 🏅 GitHub Trophy Wall
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=krsiddharth99&theme=algolia&row=2&column=4"/>
 
 ---
 
 ## 🌐 Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsiddharth99&layout=compact&theme=transparent"/>
 
 ---
 
