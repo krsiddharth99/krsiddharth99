@@ -148,9 +148,8 @@ Building scalable web applications, AI-powered products, and modern user experie
 
 ## 🤝 Let's Connect
 
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- Portfolio: https://YOUR_PORTFOLIO.com
-- Email: YOUR_EMAIL
+- LinkedIn: [https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/siddharth-kumar-833497175/)
+- Email: kumar99.siddharth@gmail.com
 
 ---
 
